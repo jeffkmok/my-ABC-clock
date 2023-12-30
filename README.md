@@ -6,7 +6,6 @@ Welcome to ABC, a visual representation of time using p5.js. This clock uses col
 
 - **Visual Time Representation**: Hours, minutes, and seconds are each represented by colored blocks that fill up as time passes.
 - **Dynamic Color Change**: The color of the second blocks changes every minute, providing a visually engaging experience.
-- **Responsive Design**: The clock is designed to fit within a specific canvas size, ensuring it looks great on all devices.
 
 ## Getting Started
 
